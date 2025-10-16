@@ -1,0 +1,9 @@
+[package]
+name = "ukma_practice2_2025_filiushkin"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "For learning to upload crates for NaUKMA Rust course of 2025"
+
+[dependencies]
+peg = "0.8.5"
